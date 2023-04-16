@@ -1,0 +1,6 @@
+EX01: Create a discord bot.
+EX02: Enable the bot.
+EX03: Encapsulate the bots token in 'secrets'
+EX04: Have the bot respond to user input.
+EX05: Have the bot greet the user.
+Bonus01: Greet the user by their nickname.
